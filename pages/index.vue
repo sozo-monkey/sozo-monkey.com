@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         Nuxt.js project
       </h2>
+      <nuxt-link to="/about" class="button">About</nuxt-link>
     </div>
   </section>
 </template>
